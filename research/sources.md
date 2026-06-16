@@ -32,3 +32,57 @@ Focus:
 
 Why selected:
 Nathan Gotch actively publishes content about modern SEO, AI search optimization, content systems, and search visibility.
+
+
+## Expert 2: Matt Diggity
+
+Website: https://diggitymarketing.com
+
+Focus:
+- SEO
+- Affiliate SEO
+- AI Content
+- Content Optimization
+
+Why selected:
+Matt Diggity is a well-known SEO practitioner who publishes practical SEO experiments, AI content workflows, and ranking strategies.
+
+## Expert 3: Gael Breton
+
+Website: https://www.authorityhacker.com
+
+Focus:
+- SEO
+- Content Systems
+- AI Content
+- Authority Sites
+
+Why selected:
+Gael Breton shares practical frameworks for SEO, content scaling, authority building, and modern content workflows.
+
+
+## Expert 4: Tim Soulo
+
+Website: https://ahrefs.com
+
+Focus:
+- SEO
+- Content Marketing
+- Keyword Research
+- Search Growth
+
+Why selected:
+Tim Soulo shares practical insights on SEO, content marketing, keyword research, and sustainable search growth.
+
+## Expert 5: Ryan Law
+
+Website: https://ahrefs.com/blog/author/ryan-law/
+
+Focus:
+- SEO
+- Content Marketing
+- AI Content
+- Content Operations
+
+Why selected:
+Ryan Law regularly publishes research and practical frameworks on content operations, AI-assisted content creation, and SEO growth.
