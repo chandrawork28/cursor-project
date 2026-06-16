@@ -86,3 +86,68 @@ Focus:
 
 Why selected:
 Ryan Law regularly publishes research and practical frameworks on content operations, AI-assisted content creation, and SEO growth.
+
+## Expert 6: Eli Schwartz
+
+Website: https://elischwartz.co
+
+Focus:
+- SEO
+- Product-Led SEO
+- Content Strategy
+- Organic Growth
+
+Why selected:
+Eli Schwartz is known for product-led SEO, international SEO, and scalable organic growth strategies used by global companies.
+
+## Expert 7: Koray Tuğberk GÜBÜR
+
+Website: https://holisticseo.digital
+
+Focus:
+- Semantic SEO
+- Topical Authority
+- Search Engines
+- Content Optimization
+
+Why selected:
+Koray is a recognized expert in semantic SEO and topical authority methodologies.
+
+## Expert 8: Bernard Huang
+
+Website: https://www.clearscope.io
+
+Focus:
+- SEO
+- Content Optimization
+- AI Content
+- Search Visibility
+
+Why selected:
+Bernard Huang is known for content optimization systems and SEO content quality improvement.
+
+## Expert 9: Julian Goldie
+
+Website: https://juliangoldie.com
+
+Focus:
+- SEO
+- Link Building
+- AI SEO
+- Content Marketing
+
+Why selected:
+Julian Goldie shares practical SEO, AI SEO, and link-building strategies.
+
+## Expert 10: Jake Ward
+
+Website: https://byword.ai
+
+Focus:
+- AI Content
+- Programmatic SEO
+- Content Automation
+- SEO Systems
+
+Why selected:
+Jake Ward specializes in AI-driven content production and programmatic SEO workflows.
