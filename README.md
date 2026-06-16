@@ -1,20 +1,68 @@
-# Portfolio Project
+# AI-Powered SEO Content Production Research
 
-## Installed Tools
-- Cursor IDE
-- Claude Code extension
-- Codex extension
-- GitHub
+## Project Overview
 
-## Steps Completed
-1. Installed Cursor IDE
-2. Installed Claude Code extension
-3. Installed Codex extension
-4. Created a project folder
-5. Opened the project in Cursor
+This repository contains research on leading experts in AI-powered SEO content production.
 
-## Issues Encountered
-No major issues encountered during setup.
+The objective is to identify high-signal practitioners, collect their content, and organize insights that can later be used to build a practical SEO playbook.
 
-## How I Solved Them
-Followed the setup instructions and verified installations.
+## Research Topic
+
+AI-Powered SEO Content Production
+
+## Experts Researched
+
+1. Nathan Gotch
+2. Matt Diggity
+3. Gael Breton
+4. Tim Soulo
+5. Ryan Law
+
+## Repository Structure
+
+research/
+
+* sources.md
+* linkedin-posts/
+* youtube-transcripts/
+* other/
+
+## Why These Experts
+
+These experts were selected because they actively publish content about:
+
+* SEO strategy
+* AI-assisted content creation
+* Content marketing
+* Search growth
+* Content operations
+* Topical authority
+
+## Research Progress
+
+Completed:
+
+* Expert identification
+* Source collection
+* Research structure creation
+* LinkedIn research files
+* YouTube research files
+
+In Progress:
+
+* Transcript collection
+* LinkedIn post collection
+* Insight extraction
+* Playbook development
+
+## Tools Used
+
+* Cursor IDE
+* Claude Code
+* Codex
+* Git
+* GitHub
+
+## Commit History
+
+Research is committed and pushed regularly to demonstrate incremental progress and version control workflow.
